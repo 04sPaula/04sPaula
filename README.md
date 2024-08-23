@@ -21,7 +21,7 @@ conhecimentos em desenvolvimento e design orientado por dados (Data-Driven UX).
 
 ## 📫 Como me Encontrar
 
-- **LinkedIn**: [Paula Souza Alves](www.linkedin.com/in/dev-paula-alves)
+- **LinkedIn**: [Paula Souza Alves](https://www.linkedin.com/in/dev-paula-alves)
 - **Email**: paula.edidba@gmail.com
 
 Estou sempre aberta a novas oportunidades e colaborações. Fique à vontade para explorar meus repositórios e entrar em contato!
