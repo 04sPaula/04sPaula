@@ -54,5 +54,5 @@ Currently pursuing a **Bachelor's degree in Systems Analysis and Development** a
 I am always open to new opportunities and collaborations where I can apply my blend of design, data, and strategic thinking to create meaningful impact. Feel free to explore my repositories and get in touch!
 
 - **LinkedIn**: [Paula Souza Alves](https://www.linkedin.com/in/dev-paula-alves)
-- **Email**: paula.edidba@gmail.com
+- **Email**: paula.edifba@gmail.com
 - **Portfolio**: https://04spaula.github.io/portfolio/
