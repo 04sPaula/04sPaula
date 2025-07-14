@@ -4,6 +4,8 @@ I am a **UX/UI Designer Generalist** passionate about crafting intuitive, human-
 
 Currently pursuing a **Bachelor's degree in Systems Analysis and Development** at a federal institution, I am continuously deepening my technical understanding and expertise in **data-driven UX**. This academic background, combined with my practical experience, allows me to bridge the gap between design and development effectively.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04spaula&layout=compact&langs_count=6&hide=html,css)
+
 ## 🚀 About Me
 
 - 🌱 I am constantly seeking to enhance my skills in **Data-Driven UX Design**, translating complex insights into actionable design decisions.
